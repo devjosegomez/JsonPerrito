@@ -1,0 +1,23 @@
+{
+ "perroSebastian" : {
+        "nombre":"Sebastian",
+        "edad": 3,
+        "peso":10.5,
+        "estaVido": true,
+        "propietario":{
+            "nombre":"Jose",
+            "edad": 23,
+            "peso":60.7,
+            "direccion":{
+                "calle":"Av. siempre viva",
+                "interior": 32
+            }
+        },
+        "cuidados":[
+            {
+            "descripcion":"Bañarlo en seco",
+            "Realizado":true
+            }
+        ]
+    }
+}
